@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-19T09:15:24Z" name="Suite" finished-at="2021-01-19T09:15:24Z" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2021-01-19T09:15:24Z" name="Test" finished-at="2021-01-19T09:15:24Z" duration-ms="66">
+      <class name="MavenJava.Selenium.SeleniumTest">
+        <test-method signature="seleniumDetailTest()[pri:0, instance:MavenJava.Selenium.SeleniumTest@3e3047e6]" started-at="2021-01-19T14:45:24Z" name="seleniumDetailTest" finished-at="2021-01-19T14:45:24Z" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumDetailTest -->
+        <test-method signature="seleniumTest()[pri:0, instance:MavenJava.Selenium.SeleniumTest@3e3047e6]" started-at="2021-01-19T14:45:24Z" name="seleniumTest" finished-at="2021-01-19T14:45:24Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumTest -->
+      </class> <!-- MavenJava.Selenium.SeleniumTest -->
+      <class name="MavenJava.Selenium.AppiumTest">
+        <test-method signature="appiumDetailTest()[pri:0, instance:MavenJava.Selenium.AppiumTest@7c417213]" started-at="2021-01-19T14:45:24Z" name="appiumDetailTest" finished-at="2021-01-19T14:45:24Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumDetailTest -->
+        <test-method signature="appiumTest()[pri:0, instance:MavenJava.Selenium.AppiumTest@7c417213]" started-at="2021-01-19T14:45:24Z" name="appiumTest" finished-at="2021-01-19T14:45:24Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumTest -->
+      </class> <!-- MavenJava.Selenium.AppiumTest -->
+      <class name="MavenJava.Selenium.RestAPITest">
+        <test-method signature="restAPIDetailTest()[pri:0, instance:MavenJava.Selenium.RestAPITest@6107227e]" started-at="2021-01-19T14:45:24Z" name="restAPIDetailTest" finished-at="2021-01-19T14:45:24Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPIDetailTest -->
+        <test-method signature="restAPITest()[pri:0, instance:MavenJava.Selenium.RestAPITest@6107227e]" started-at="2021-01-19T14:45:24Z" name="restAPITest" finished-at="2021-01-19T14:45:24Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restAPITest -->
+      </class> <!-- MavenJava.Selenium.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
